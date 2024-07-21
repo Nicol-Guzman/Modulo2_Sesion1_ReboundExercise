@@ -1,4 +1,4 @@
-# MODULO 1 - SESION 1
+# MODULO 2 - SESION 1
 ### REBOUND EXERCISE
 
 Ejercicio de comprobación de la Sesión 1 del Módulo 2.
