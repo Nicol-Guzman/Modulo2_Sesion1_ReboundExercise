@@ -1,5 +1,5 @@
 # MODULO 2 - SESION 1
-### REBOUND EXERCISE
+### Rebound Exercise
 
 Ejercicio de comprobación de la Sesión 1 del Módulo 2.
 
